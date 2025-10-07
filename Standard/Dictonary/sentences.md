@@ -3,8 +3,8 @@ Who(Subject) What(Verb) To(Subject) What(Object) When(Time) Optional
 you 		 give       me 			   water	 now
 
 "I just moved to LA":
-Who What To What When
-me moved la - past
+Who When What To What
+me just moved la
 
 Do want to drink that, or can i have it?
 WhoWhatToWhatWhen
@@ -32,3 +32,10 @@ se wa sogae gadare
 
 this is not very interesting
 se wo sogae gadare
+
+
+
+wir müssen dann nur schauen wo und was wir machen, aber das können wir sonst auch nächste Woche besprechen
+wir sollten(opt.zukunft) zusammen reden für wo und was zusammen machen wir, aber wir können reden darüber Woche nächste
+va ezeri yemec requa ce maru to ro yemec rote, ko va etapei requa enne se yulem neve na'gom
+/wa eseri jemesch rekkua tsche maru to ro jemesch rotte, ko wa ettapei rekua enne se julem neve nagom/

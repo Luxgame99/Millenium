@@ -1,0 +1,377 @@
+
+Endungen:
+a ist neutral
+u ist neutral
+i ist neutral
+e ist positive
+o ist negative
+
+konsonanten sind "final"
+vokale sind "komplementiv" - sie brauchen zusätzliche Wörter um sie vollständig zu definieren
+
+wortbildung:
+Wer Was Zu Was Wann
+
+Deutsch - MilleniumBeispiel
+
+
+#Personen - ghega
+Wer - vagh - megh sogae tepu vegh // I will das wirklich
+ich - megh - megh sogao tepu vegh // Ich will das nicht wirklich
+du - yegh
+ihr - yaegh
+wir - vagh
+das - vegh
+männlich (er) - va
+weiblich (sie) - ve
+divers - vae
+neutral(es) - degh
+
+mein - megaru/meiru
+dein - yegaru/yeiru
+euer - yaegaru/yoiru
+niemands - cogaru/coiru
+jedermans - dalegora
+unser - degaru/deiru
+
+zusammen - yemec
+ausseinander - omec
+
+
+#Zeit - sora
+Wann(Zeit) - sor
+zukunft - sore
+jetzt gerade - sorae
+vergangenheit - osore
+lange zeit - osoro
+früh - asore
+spät - asoro
+heute - sorawa
+Gestern - osowa
+Morgen - sorewe
+irgentwann - yoksor - unbekannte Zeit
+geplant wann - yeksor
+
+#Ort - maru
+nah - mare
+fern - maro
+hier - marae
+wo anders - maori
+überall - dalire
+irgwentwo - meore
+nirgents - meoro
+
+#Verben - roa
+Was(Verb) - ro
+besitzen - cepera
+etwas machen - rothe/rote
+konsumieren - cew
+gehen/begeben - expet
+schreiben - teva
+sprechen - requa
+erschaffen - teba
+schlafen - togoa
+arbeiten - rowa
+zeigen (symb.) - etora
+heilen - romer
+verletzen - romor
+loben - tehara
+ehren - garueke
+interessieren - gadare
+zerstören - teo
+schenken - dare
+starten - remme
+stoppen - remmo (Professionell auch: tellare)
+laufen / durchführen - remma
+reagieren - rege
+
+dürfen - nete
+wollen - tepu/tapei
+können - nori/tera
+müssen - reza
+sollen - zera
+könnte mögl. passieren - casse
+
+erlaubtes jetzt - neti - ich darf jetzt essen
+erlaubtes bald - eneti - ich darf bald essen
+erlaubte vergangenheit - oneti - ich durfte essen
+
+wunsch jetzt - tapei/tepu - ich will essen
+wunsch bald - etapei - ich will bald essen
+wunsch vorher - otapei - ich wollte essen
+
+funk. jetzt - nori - ich kann essen
+funk. bald - enori - ich könnte bald essen
+funk. vorher - onori - ich hätte essen können
+
+erw. jetzt - rezi - ich muss jetzt essen
+erw. bald - erezi - ich muss bald essen
+erw. vergangenheit - orezi - ich musste essen
+
+optimales jetzt - zeri
+optimales bald - ezeri
+optimale vergangenheit - ozeri
+
+mögl. jetzt - cassei - ich könnte essen
+mögl. bald - ecassi - ich könnte bald essen
+mögl. vorher - ocassei - ich hätte vielleicht gegessen
+
+sein - wa
+sehen - veu
+hören - requ
+riechen - fie
+schmecken - maake
+fühlen - sen
+fühlen (emotional) - wen
+spüren (sozial) - chen
+malen - tessa
+
+fühlen - waroe
+wissen - kora
+etwas (egal) - rodao
+mögen/freuen - tagae
+hassen - tagao
+lieben - sofe
+komisch finden - aorimo
+etwas empfinden - rimori
+
+#Präpositionen - netora
+für - ce
+und - to
+mit - ke
+aber - ko
+ohne - gero
+ist nicht/nicht sein - wo
+ist gleich - de - megh wa qu de 185cm // Meine höhe ist 185cm / ich sein höhe ist 185cm
+über (thematisch) - enne
+in - en
+auf - at
+vor - re
+hinter - ne
+unter - al
+über - ar
+neben - et
+zwischen - an
+gegenüber - om
+ausserhalb - etmen
+innerhalb - atmen
+
+genau - yalem
+circa / ungefähr - yulem
+
+#Adjektive - nous (und Adverbe)
+höhe - qu
+lang - que
+kurz - quo
+hoch - ogae
+tief - ogao
+groß - dae
+klein - dao
+wahr - iwe
+falsch - iwo
+dazwischen - iweo
+bestes - urtae
+schlechtestes - urtao
+besetzt - cerf
+frei - corf
+offensichtlich - yek
+nicht so offensichtlich - yok
+viel - sogae
+wenig - sogao
+viele - gae
+wenige - gao
+gut -  - utae
+schlecht - utao
+einfach - utage
+schwer   - utago
+(ist?)wichtig - garu
+(ist?)will - tepu
+neu - warae
+alt - warao
+laut - utare - sogae utare // Es ist sehr laut
+leise - utaro
+Einzige - takage - megh wa takage vagh mave // Ich bin der einzige hier
+ort nah/hier - mave
+ort weit - mavo
+ort  - mavu
+gehört - ware - vegh wa megaru // Das gehört mir / das sein meins
+vielleicht - iwa - vegh iwa wa megaru // That may be mine / das 
+normal - nemai
+anders   - aori - megh wa sagoe aori // Ich bin sehr anders / ich sein sehr anders
+vereinfacht - temai
+verschwieriegt - utami
+voll - cerae
+leer - cerao
+ganz - mon
+halb - manae
+nichts - moro
+alter  - ninda - megh wa ninda de 21 // Ich bin 21 jahre alt / ich sein alter ist 21
+hell - oneme
+dunkel - eome
+schön - tae
+hässlich - mao
+schnell - meva
+langsam - mova
+bedeuten - yetora
+fast - iwae
+nich mal annähernd - iwao
+
+#Substantive - suata
+das - se
+nächtes - neve
+vorheriges - reve
+
+Begrüßung - watae
+Verabschiedung - watao
+
+
+#Nomen - meira
+
+##Allgemein
+Person - deghe
+Tier - faugha
+Maschine (als Individuum) - maghae
+Pflanze - florae
+
+Sprache - regua
+Schrift - tor
+Art - awem
+Grundlage - base
+Kunst - tezae
+Technik - tezo
+Drehung - retesh
+Material - taa
+Wissenschaft - koreme
+Spiritualität - Aeshe
+Name - nema
+Zuhause / Unterschlupf - tomen
+
+
+Block - boce
+Kugel - go(ce) - don'go // blauer ball, don goce // blau kugel
+Würfel/Quader - taie(ce)
+Pyramide - pirae(ce)
+Cylinder - cile(ce)
+Kegel - cona(ce)
+Kapsel - kape(ce)
+Quadrat - tai
+Kreis - moi
+Dreieck - teime
+
+Umkehr - yota
+Motivation/Ziel - wateb
+Freund - tagami
+Gegner - tomega
+
+
+
+##Grundlegend
+
+Natur - Aem
+Technologie - Oem
+Alien - Jiem
+
+Welt - dalem
+Wasser - aquie
+Feuer - ignie
+Luft  - aerie
+Grund (Boden/Gestein/Erde) - terie
+Metall - milie
+Licht - eta
+Maß - nem
+Sinn - set
+Ordnung - oder
+Zerstörung - tebum
+Liebe - sofes
+Hass - odem
+
+
+##Weltraum
+
+Planet -
+Stern - daeta
+Mond -
+Sonnensystem -
+Weltraum - 
+Leere (ausserhalb des SSys) -
+Nebula -
+Galaxie -
+Leere (ausserhalb der Galaxie) -
+Universum -
+
+
+#Aussagen
+
+ja -  - ye / keri (formell)
+nein - no / kori (formell)
+vielleicht ja - kei
+warscheinlich nicht - koi
+vielleicht - keo
+ganz sicher - yekoge
+unsicher - okoge
+jetzt - ka
+bald - kea
+danke - teha
+bitte sehr - tehu
+bitte - teho (formeller: tehokori)
+? (fragen) - too/kaa/haayegh tagae tessa kaa? // malst du gerne?
+
+
+#Farben - croma
+Farbe - anue
+Grundfarbe - -on
+Sekundärfarbe - -en
+Tertiärfarbe - -im
+Rot - ron
+Orange - him
+Gelb - gen
+Hellgrün - dim
+Grün - ton
+(Mittelgrün) - rim
+Türkis - len
+Hellblau - sim
+Blau - don
+Lavendel - wim
+Lila - ten
+Pink - cim
+(Braun - Dunkel Orange) - o'him
+
+Sättigung - onema
+satt - - (ron -> ron)
+matt - -u
+unbunt - -eu
+grau - eunem
+weiß - onem
+
+Helligkeit - euna
+normal - -
+halbdunkel - e- (ron -> eron)
+dunkel - eu-
+sehr dunkel - o-
+schwarz - eon
+
+#Tag
+
+Tag (hell/dunkel zyklus)gom (g<>om)
+Morgen (sonnenaufgang)gosorem
+Mittag (zenith) - gonem
+Abend (sonnenuntergang)gosorom
+Nacht - geom
+Jahr (revolution um die sonne)
+
+#Schriftwörter
+
+Schrift - tor
+Normalschrift - nemeitoa
+Semi-kursiv-Schrift - manae'tematoahalbe-schnellschrift
+Silbenschrift - sequatoa
+Lautschrift - quaetoa
+Blockschrift - botoa
+Ausgeschreiben - etmen
+
+Strich - gat
+Buchstabe - tame
+Schriftzeichen - segeo
+Silbe - sequa
+Ton - quae
+Betonung - quatae
