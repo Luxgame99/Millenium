@@ -3,8 +3,8 @@ Endungen:
 a ist neutral
 u ist neutral
 i ist neutral
-e ist positive
-o ist negative
+e ist positiv
+o ist negativ
 
 konsonanten sind "final"
 vokale sind "komplementiv" - sie brauchen zusätzliche Wörter um sie vollständig zu definieren
@@ -16,16 +16,16 @@ Deutsch - MilleniumBeispiel
 
 
 #Personen - ghega
-Wer - vagh - megh sogae tepu vegh // I will das wirklich
-ich - megh - megh sogao tepu vegh // Ich will das nicht wirklich
-du - yegh
-ihr - yaegh
-wir - vagh
-das - vegh
-männlich (er) - va
-weiblich (sie) - ve
-divers - vae
-neutral(es) - degh
+Wer - ya(gh)
+ich - me(gh)
+du - ye(gh)
+ihr - yae(gh)
+wir - va(gh)
+das - ve(gh) - megh sogae tepu vegh // I will das wirklich
+männlich (er) - vai
+weiblich (sie) - vei
+divers - vaei
+neutral(es) - de(gh)
 
 mein - megaru/meiru
 dein - yegaru/yeiru
@@ -66,7 +66,7 @@ Was(Verb) - ro
 besitzen - cepera
 etwas machen - rothe/rote
 konsumieren - cew
-gehen/begeben - expet
+gehen/begeben - expet/ex/expe
 schreiben - teva
 sprechen - requa
 erschaffen - teba
@@ -116,6 +116,26 @@ mögl. jetzt - cassei - ich könnte essen
 mögl. bald - ecassi - ich könnte bald essen
 mögl. vorher - ocassei - ich hätte vielleicht gegessen
 
+
+präsens - zam
+ich mache - me rote
+
+präteritum - zom **zo(r)-**
+ich machte - me **zo**rote
+
+perfekt - zeom **zeo(r)-**
+ich habe gemacht - me **zeo**rote
+
+plusquamperfekt - ziqom **zio(r)-**
+ich hatte gemacht - me **zio**rote
+
+futur i - zem **ze(r)-**
+ich werde machen - me **se**rote
+
+futur ii - zoem **zoe(r)-**
+ich werde gemacht haben - me **zoe**rote
+
+
 sein - wa
 sehen - veu
 hören - requ
@@ -141,6 +161,7 @@ und - to
 mit - ke
 aber - ko
 ohne - gero
+zu - ex - me expe ex ye // ich gehe zu dir
 ist nicht/nicht sein - wo
 ist gleich - de - megh wa qu de 185cm // Meine höhe ist 185cm / ich sein höhe ist 185cm
 über (thematisch) - enne

@@ -39,3 +39,16 @@ wir müssen dann nur schauen wo und was wir machen, aber das können wir sonst a
 wir sollten(opt.zukunft) zusammen reden für wo und was zusammen machen wir, aber wir können reden darüber Woche nächste
 va ezeri yemec requa ce maru to ro yemec rote, ko va etapei requa enne se yulem neve na'gom
 /wa eseri jemesch rekkua tsche maru to ro jemesch rotte, ko wa ettapei rekua enne se julem neve nagom/
+
+
+ich werde eine katze sein
+ich werde sein katze
+me zoewa temafeli
+
+ich wollte eine katze gewesen sein
+ich wollte sein katze
+me zotepu wa temafeli / me zotapei wa temafeli
+
+ich werde eine katze sein
+ich werde sein katze
+me zewa temafeli
