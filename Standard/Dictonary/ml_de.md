@@ -63,6 +63,7 @@ nirgents - meoro
 
 #Verben - roa
 Was(Verb) - ro
+zu Verb - -ra - kühl(newaroi) kühlen(newaroira)
 besitzen - cepera
 etwas machen - rothe/rote
 konsumieren - cew
@@ -78,6 +79,10 @@ verletzen - romor
 loben - tehara
 ehren - garueke
 interessieren - gadare
+nicht interessieren - gadaro
+erinneren - gadakore
+vergessen - gadako
+suchen - vero
 zerstören - teo
 schenken - dare
 starten - remme
@@ -161,6 +166,8 @@ und - to
 mit - ke
 aber - ko
 ohne - gero
+immer mehr / tendierend - ge
+des - na - e bo na mova // der knopf des langsams
 zu - ex - me expe ex ye // ich gehe zu dir
 ist nicht/nicht sein - wo
 ist gleich - de - megh wa qu de 185cm // Meine höhe ist 185cm / ich sein höhe ist 185cm
@@ -181,6 +188,7 @@ genau - yalem
 circa / ungefähr - yulem
 
 #Adjektive - nous (und Adverbe)
+zu adjektiv - -ye - zuko(Zucker) zukoye (Süß)
 höhe - qu
 lang - que
 kurz - quo
@@ -236,11 +244,17 @@ langsam - mova
 bedeuten - yetora
 fast - iwae
 nich mal annähernd - iwao
+heiß - neware 
+warm - newarei
+raumtemperatur - newari
+kühl - newaroi
+kalt - newaro
 
 #Substantive - suata
 das - se
 nächtes - neve
 vorheriges - reve
+zu substantiv - -ne - gae(groß) gaene(Groß)
 
 Begrüßung - watae
 Verabschiedung - watao
@@ -258,6 +272,7 @@ Sprache - regua
 Schrift - tor
 Art - awem
 Grundlage - base
+Kern - kab
 Kunst - tezae
 Technik - tezo
 Drehung - retesh
@@ -269,12 +284,14 @@ Zuhause / Unterschlupf - tomen
 
 
 Block - boce
+Körper - ece/cepo
 Kugel - go(ce) - don'go // blauer ball, don goce // blau kugel
 Würfel/Quader - taie(ce)
 Pyramide - pirae(ce)
 Cylinder - cile(ce)
 Kegel - cona(ce)
 Kapsel - kape(ce)
+Form - eme
 Quadrat - tai
 Kreis - moi
 Dreieck - teime
@@ -283,6 +300,8 @@ Umkehr - yota
 Motivation/Ziel - wateb
 Freund - tagami
 Gegner - tomega
+
+Knopf - bo
 
 
 
@@ -305,6 +324,29 @@ Ordnung - oder
 Zerstörung - tebum
 Liebe - sofes
 Hass - odem
+
+##Körper
+Körper - yan/yana
+
+Kopf - teya/maya
+Augen - veya
+Mund - manaya
+Zähne - denaya
+Zunge - reya
+
+
+Brust - kaya
+Schultern - calaya
+Arme - baya
+Hände - Haya
+Finger - tohaya
+
+Bauch - taya
+Hüfte - tiya
+
+Beine - zaya
+Füß - zenaya
+Ferse - kezaya
 
 
 ##Weltraum
@@ -391,6 +433,7 @@ Blockschrift - botoa
 Ausgeschreiben - etmen
 
 Strich - gat
+Kurve - maet
 Buchstabe - tame
 Schriftzeichen - segeo
 Silbe - sequa
