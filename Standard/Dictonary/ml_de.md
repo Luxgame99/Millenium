@@ -9,9 +9,9 @@
 
 - Alle Konsonanten und Vokale : {}
 
-- Einfache Silbe : !
+- Selbstlaut Silbe : !
 
-- Dipthong Silbe : %
+- Offene Silbe : %
 
 - Alle Silben : #
 
