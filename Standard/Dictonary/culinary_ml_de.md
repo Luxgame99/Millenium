@@ -29,58 +29,85 @@ Als Gemüse bezeichnet man Früchte von krautigen Pflanzen.
 
 - Kernobst
 
-Apfel malus
-Birne pyrus
+Apfel malus - malua
+
+Birne pyrus - pyrua
 
 ---
 
 - Steinobst
 
-Aprikose armeniaca
-Olive olea
-Pflaume prunus
-Pfirsich persica
-Sauerkirsche cerasus
-Süßkirsche avium
+Aprikose armeniaca - ameniaca
+
+Olive olea - olea
+
+Pflaume prunus - purunea
+
+Pfirsich persica - peresia
+
+Sauerkirsche cerasus - cerasia
+
+Süßkirsche avium - avia
 
 ---
 
 - Beerenobst
 
-Brombeere rubus
-Erdbeere fragaria
-Heidelbeere vaccinium
-Rote Johannisbeere ribes rubrum
-Schwarze Johannisbeere ribes nigrum
-Weintraube vitis vinifera
-Holunder Sambucus
+Brombeere rubus - rubia
+
+Erdbeere fragaria - faragia
+
+Heidelbeere vaccinium - vacinia
+
+Rote Johannisbeere ribes rubrum - ribea ron
+
+Schwarze Johannisbeere ribes nigrum - ribea eon
+
+Weintraube vitis vinifera - vinea
+
+Holunder Sambucus - samabua
 
 ---
 
 - Schalenobst
 
-Erdnuss arachis hypogaea
-Haselnuss Corylus
-Kokosnuss cocos
-Mandel dulcis
-Pistazie pistacia
-Sesam sesamum
-Walnuss juglans
+Erdnuss arachis hypogaea - hypogaea
+
+Haselnuss Corylus - corylea
+
+Kokosnuss cocos - kokia
+
+Mandel dulcis - dulacia
+
+Pistazie pistacia - pisacia
+
+Sesam sesamum - sesamia
+
+Walnuss juglans - jugalania
+
 
 ---
 
 - Klassische Südfrüchte
 
-Ananas ananas
-Avocado persea americana
-Banane musa
-Kumquat fortunella
-Pitahaya hylocereus undatus
-Citrusfrüchte citrus
-Limette citrus
-Mandarine citrus aurantium
-Orange citrus sinensis
-Zitrone citrus limon
+Ananas ananas - anania
+
+Avocado persea americana - mericia
+
+Banane musa - musia
+
+Kumquat fortunella - foratunelia
+
+Pitahaya hylocereus undatus - pitahia
+
+Limette citrus - sitria
+
+Mandarine citrus aurantium - sitria auranitia
+
+Orange citrus sinensis - sitria sinesia / sinesia
+
+Zitrone citrus limon - limea
+
 
 
 # Gemüse
