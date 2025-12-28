@@ -1,31 +1,89 @@
-
-Endungen:
-a ist neutral
-u ist neutral
-i ist neutral
-e ist positiv
-o ist negativ
-
-konsonanten sind "final"
-vokale sind "komplementiv" - sie brauchen zusätzliche Wörter um sie vollständig zu definieren
-
-wortbildung:
-Wer Was Zu Was Wann
-
-Deutsch - MilleniumBeispiel
+# MILLENIUM [DEZ 25]
+[Personen](#Personen) - [Zeit](#Zeit) - [Ort](#Ort) - [Verben](#Verben) - [Präpositionen](#Präpositionen) - [Konjunktionen](#Konjunktionen) - [Adjektive](#Adjektive) - [Substantive](#Substantive) - [Interjektionen](#Interjektionen) - [Farben](#Farben) -  [Tag](#Tag) - [Schriftwörter](#Schriftwörter)
 
 
-#Personen - ghega
-Wer - ya(gh)
-ich - me(gh)
-du - ye(gh)
-ihr - yae(gh)
-wir - va(gh)
-das - ve(gh) - megh sogae tepu vegh // I will das wirklich
+
+- Alle Konsonanten : []
+
+- Alle Vokale : ()
+
+- Alle Konsonanten und Vokale : {}
+
+- Einfache Silbe : !
+
+- Dipthong Silbe : %
+
+- Alle Silben : #
+
+
+
+# Endungen:
+
+die letzte Silbe in einem Wort |
+nur bei mehrsilbigen Worten
+
+
+### Offen
+~~~
+-()
+
+
+Polar
+
+-E positive polarität
+-E negative polarität
+-Ei eher positive polarität
+-Eu eher negative polarität
+
+
+Unpolar
+-A, -I, -U, -Y
+~~~
+
+
+### Relativ
+~~~
+-[]()
+
+
+-[]a, -[]e, -[]i, -[]o, -[]u
+Keine besondere Bedeutung
+~~~
+
+
+### Absolut (Geschlossen)
+~~~
+-[]
+
+
+Auf Zusammenhang achten
+~~~
+
+
+### Bestimmung der Wortart
+~~~
+Verben -> Relativ, Unpolar
+Adjektive -> Offen Polar
+Substantive -> Absolut
+Satzhelfer (Präpos./Interj./...) -> Alles andere
+~~~
+
+
+
+Deutsch - Millenium - Beispiel
+
+
+# Personen - ghega
+Wer - ya
+ich - me
+du - ye
+ihr - yae
+wir - va
 männlich (er) - vai
 weiblich (sie) - vei
 divers - vaei
-neutral(es) - de(gh)
+neutral (es) - ve
+
 
 mein - megaru/meiru
 dein - yegaru/yeiru
@@ -34,11 +92,14 @@ niemands - cogaru/coiru
 jedermans - dalegora
 unser - degaru/deiru
 
+
 zusammen - yemec
 ausseinander - omec
 
 
-#Zeit - sora
+
+
+# Zeit - sora
 Wann(Zeit) - sor
 zukunft - sore
 jetzt gerade - sorae
@@ -52,7 +113,10 @@ Morgen - sorewe
 irgentwann - yoksor - unbekannte Zeit
 geplant wann - yeksor
 
-#Ort - maru
+
+
+
+# Ort - maru
 nah - mare
 fern - maro
 hier - marae
@@ -60,13 +124,19 @@ wo anders - maori
 überall - dalire
 irgwentwo - meore
 nirgents - meoro
+ort nah/hier - mave
+ort weit - mavo
+ort  - mavu
 
-#Verben - roa
+
+
+
+# Verben - roa
 Was(Verb) - ro
-zu Verb - -ra - kühl(newaroi) kühlen(newaroira)
 besitzen - cepera
 etwas machen - rothe/rote
 konsumieren - cew
+schlucken - celaw
 gehen/begeben - expet/ex/expe
 schreiben - teva
 sprechen - requa
@@ -86,9 +156,10 @@ suchen - vero
 zerstören - teo
 schenken - dare
 starten - remme
-stoppen - remmo (Professionell auch: tellare)
+stoppen - remmo - (Professionell auch: tellare)
 laufen / durchführen - remma
 reagieren - rege
+
 
 dürfen - nete
 wollen - tepu/tapei
@@ -96,6 +167,7 @@ können - nori/tera
 müssen - reza
 sollen - zera
 könnte mögl. passieren - casse
+
 
 erlaubtes jetzt - neti - ich darf jetzt essen
 erlaubtes bald - eneti - ich darf bald essen
@@ -160,17 +232,23 @@ lieben - sofe
 komisch finden - aorimo
 etwas empfinden - rimori
 
-#Präpositionen - netora
+
+
+
+# Präpositionen - netora
 für - ce
 und - to
 mit - ke
 aber - ko
 ohne - gero
 immer mehr / tendierend - ge
-des - na - e bo na mova // der knopf des langsams
-zu - ex - me expe ex ye // ich gehe zu dir
+des - na
+e bora na mova // der knopf des langsams
+zu - ex
+me expe ex ye // ich gehe zu dir
 ist nicht/nicht sein - wo
-ist gleich - de - megh wa qu de 185cm // Meine höhe ist 185cm / ich sein höhe ist 185cm
+ist gleich - de
+megh wa qu de 185cm // Meine höhe ist 185cm // ich sein höhe ist 185cm
 über (thematisch) - enne
 in - en
 auf - at
@@ -183,12 +261,46 @@ zwischen - an
 gegenüber - om
 ausserhalb - etmen
 innerhalb - atmen
+umher - pela // periphär
+
 
 genau - yalem
 circa / ungefähr - yulem
 
-#Adjektive - nous (und Adverbe)
-zu adjektiv - -ye - zuko(Zucker) zukoye (Süß)
+
+bestimmt singular artikel - e
+e vase // die Vase // diese Vase
+bestimmt plural artikel - a
+a veyan // die Augen // diese Augen
+unbestimmt singular artikel - en
+en kab // ein Kern
+unbestimmt plural artikel - an
+an daetan // Sterne
+
+bestimmt singular bezug - se
+se wa don // es ist blau
+bestimmt plural bezug - sa
+sa de veyan ce ye // dies sind die augen von dir
+
+
+
+
+# Konjunktionen - kota
+und (satzebene) - toku
+und (aufzählung) - to
+oder (satzebene) - doku
+oder (aufzählung) - do
+auch - ta
+ob / egal - bano
+welche - eso
+a veyan eso wa don // die augen welche blau sind
+vorallem - tobe
+desto - gere
+
+
+
+
+# Adjektive (und Adverbe) - nous 
 höhe - qu
 lang - que
 kurz - quo
@@ -196,33 +308,32 @@ hoch - ogae
 tief - ogao
 groß - dae
 klein - dao
-wahr - iwe
-falsch - iwo
+wahr - iwae
+falsch - iwao
 dazwischen - iweo
-bestes - urtae
-schlechtestes - urtao
-besetzt - cerf
-frei - corf
-offensichtlich - yek
-nicht so offensichtlich - yok
+bestes - uratae
+schlechtestes - uratao
+frei - cerie
+besetzt - cerio
+offensichtlich - yek / yekae
+nicht so offensichtlich - yok / yokao
 viel - sogae
 wenig - sogao
 viele - gae
 wenige - gao
-gut -  - utae
+nicht alleine - kawae
+alleine - kawao
+gut - utae
 schlecht - utao
 einfach - utage
-schwer   - utago
-(ist?)wichtig - garu
-(ist?)will - tepu
+schwer - utago
+(ist?)wichtig - garue
+(ist?)will - tepue
 neu - warae
 alt - warao
 laut - utare - sogae utare // Es ist sehr laut
 leise - utaro
 Einzige - takage - megh wa takage vagh mave // Ich bin der einzige hier
-ort nah/hier - mave
-ort weit - mavo
-ort  - mavu
 gehört - ware - vegh wa megaru // Das gehört mir / das sein meins
 vielleicht - iwa - vegh iwa wa megaru // That may be mine / das 
 normal - nemai
@@ -250,37 +361,44 @@ raumtemperatur - newari
 kühl - newaroi
 kalt - newaro
 
-#Substantive - suata
+
+
+
+# Substantive - suta
 das - se
 nächtes - neve
 vorheriges - reve
 zu substantiv - -ne - gae(groß) gaene(Groß)
 
-Begrüßung - watae
-Verabschiedung - watao
 
-
-#Nomen - meira
-
-##Allgemein
+## Allgemein
 Person - deghe
 Tier - faugha
-Maschine (als Individuum) - maghae
-Pflanze - florae
+Maschine (als Individuum) - magha
+Pflanze - flore
 
-Sprache - regua
+
+etwas (verb) - roda
+etwas (adj.) - noda
+etwas (sub.) - suda / sero
+etwas (aussage) - quda
+
+
+Sprache - regu
 Schrift - tor
 Art - awem
 Grundlage - base
-Kern - kab
-Kunst - tezae
+Gefahr - pelaro
+Kern - kaba
+Kunst - teza
 Technik - tezo
-Drehung - retesh
+Drehung - rete
 Material - taa
 Wissenschaft - koreme
 Spiritualität - Aeshe
 Name - nema
-Zuhause / Unterschlupf - tomen
+Zuhause / Unterschlupf - tome
+Sorgen - shere
 
 
 Block - boce
@@ -297,35 +415,35 @@ Kreis - moi
 Dreieck - teime
 
 Umkehr - yota
-Motivation/Ziel - wateb
+Motivation/Ziel - wate
 Freund - tagami
 Gegner - tomega
 
-Knopf - bo
+Knopf - bora
 
 
-
-##Grundlegend
+## Grundlegend
 
 Natur - Aem
 Technologie - Oem
 Alien - Jiem
 
-Welt - dalem
-Wasser - aquie
-Feuer - ignie
-Luft  - aerie
-Grund (Boden/Gestein/Erde) - terie
-Metall - milie
+Welt - dale
+Wasser - aqui
+Feuer - igni
+Luft  - aeri
+Grund (Boden/Gestein/Erde) - teri
+Metall - mili
 Licht - eta
-Maß - nem
-Sinn - set
-Ordnung - oder
+Maß - nema
+Sinn - seta
+Ordnung - dore
 Zerstörung - tebum
-Liebe - sofes
-Hass - odem
+Liebe - sofe
+Hass - dolo
 
-##Körper
+
+## Körper
 Körper - yan/yana
 
 Kopf - teya/maya
@@ -349,7 +467,10 @@ Füß - zenaya
 Ferse - kezaya
 
 
-##Weltraum
+## Nahrung - maa
+
+
+## Weltraum
 
 Planet -
 Stern - daeta
@@ -363,7 +484,9 @@ Leere (ausserhalb der Galaxie) -
 Universum -
 
 
-#Aussagen
+
+
+# Aussagen
 
 ja -  - ye / keri (formell)
 nein - no / kori (formell)
@@ -377,10 +500,20 @@ bald - kea
 danke - teha
 bitte sehr - tehu
 bitte - teho (formeller: tehokori)
-? (fragen) - too/kaa/haayegh tagae tessa kaa? // malst du gerne?
+? (fragen) - too/kaa/haa
+yegh tagae tessa kaa // malst du gerne?
+!? (hinterfragen) - tee/kee/hee
+yeu wa maori kee // Du bist wo anders? Du bist wo anders, wiee?
+Begrüßung - watae
+Gruß - sale
+Verabschiedung - watao
+core - korrekt, es ist wahr
+core haa - stimmt es?
 
 
-#Farben - croma
+
+
+# Farben - croma
 Farbe - anue
 Grundfarbe - -on
 Sekundärfarbe - -en
@@ -413,7 +546,10 @@ dunkel - eu-
 sehr dunkel - o-
 schwarz - eon
 
-#Tag
+
+
+
+# Tag
 
 Tag (hell/dunkel zyklus)gom (g<>om)
 Morgen (sonnenaufgang)gosorem
@@ -422,7 +558,10 @@ Abend (sonnenuntergang)gosorom
 Nacht - geom
 Jahr (revolution um die sonne)
 
-#Schriftwörter
+
+
+
+# Schriftwörter
 
 Schrift - tor
 Normalschrift - nemeitoa
