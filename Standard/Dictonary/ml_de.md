@@ -544,6 +544,10 @@ vereinfacht - temai
 
 verschwieriegt - utami
 
+ungefährlich - perie
+
+gefährlich - perio
+
 voll - cerae
 
 leer - cerao
