@@ -337,12 +337,19 @@ spüren (sozial) - chen
 malen - tessa
 
 fühlen - waroe
+
 wissen - kora
+
 etwas (egal) - rodao
+
 mögen/freuen - tagae
+
 hassen - tagao
+
 lieben - sofe
+
 komisch finden - aorimo
+
 etwas empfinden - rimori
 
 
@@ -403,6 +410,10 @@ ausserhalb - etmen
 innerhalb - atmen
 
 umher - pela // periphär
+
+herunter - ca
+
+auf (aufgehend) - as
 
 ---
 
