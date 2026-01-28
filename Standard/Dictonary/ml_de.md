@@ -52,16 +52,14 @@ Keine besondere Bedeutung
 
 
 ### Absolut (Geschlossen)
-~~~
+
 |             | Theoretisch  | Physisch | Kontextuell  |   |
 |-------------|:------------:|:--------:|:------------:|---|
 | Einmalig    |    A \| Ge   |     R    |       T      |   |
 | Herkömmlich |     S / I    |   M / N  |     L / U    |   |
 | Unbekannt   |   Ou \| Ge   |     G    |      Sh      |   |
 
-
 Auf Zusammenhang achten
-~~~
 
 
 ### Bestimmung der Wortart
