@@ -1,10 +1,45 @@
-Jedes Wort in Millenium hat ein Grundwort,
-es kann mit aspekten, prefixen, suffixen und modifikatoren bedeutung gewinnen
+# MILLENIUM [JAN 26]
 
-Grundformen:
+~~~
+Jedes Wort in Millenium besteht aus verscheidenen Komponenten:
+~~~
 
-Sor - Zeit
-Mar - Ort
-Ro - machen
-Ce - für
-Pera - Unterordnung
+# Prefix / Prefixe
+
+- ei - 1. Steigerung
+- ene - 2. Steigerung
+- ze - zukunftsform
+- zo - vergangenheitsform
+
+# Basis
+
+~~~
+bsp:
+daqu:
+da - groß
+qu - hoch / erhöhung
+
+=> Berg
+~~~
+
+
+# Endung
+
+- **bei Adjektiven** e / o oder ei / eu
+- **bei Substantiven** a / ge / s / i / go / uo / r / m / n / t / l / u / sh
+- **bei verben** keine Endung
+
+
+# Suffixe
+
+- ein - ausführender des Substantives (xera)
+~~~
+bsp:
+tezo - Technik
+tezoein - Techniker
+~~~
+- ain - betroffener des Substantives (oera)
+
+
+#Silben:
+

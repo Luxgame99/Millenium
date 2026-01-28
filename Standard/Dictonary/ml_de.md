@@ -1,4 +1,4 @@
-# MILLENIUM [DEZ 25]
+# MILLENIUM [JAN 26]
 [Personen](#Personen) - [Zeit](#Zeit) - [Ort](#Ort) - [Verben](#Verben) - [Präpositionen](#Präpositionen) - [Konjunktionen](#Konjunktionen) - [Adjektive](#Adjektive) - [Substantive](#Substantive) - [Interjektionen](#Interjektionen) - [Farben](#Farben) -  [Tag](#Tag) - [Schriftwörter](#Schriftwörter)
 
 
@@ -84,7 +84,7 @@ du - ye
 
 ihr - yae
 
-wir - va
+wir - vi
 
 männlich (er) - vai
 
@@ -96,23 +96,23 @@ neutral (es) - ve
 
 ---
 
-mein - megaru/meiru
+mein - meceru/meiru
 
-dein - yegaru/yeiru
+dein - yeceru/yeiru
 
-euer - yaegaru/yoiru
+sein - vaiceru/vairu
 
-niemands - cogaru/coiru
+ihr - veiceru/veiru
 
-jedermans - dalegora
+euer - yaeceru/yoiru
 
-unser - degaru/deiru
+niemands - qoceru/qoiru
+
+jedermans - dagheceru/dagheiru
+
+unser - viceru/viru
 
 ---
-
-zusammen - yemec
-
-ausseinander - omec
 
 
 
@@ -320,21 +320,21 @@ ich werde gemacht haben - me **zoe**rote
 
 sein - wa
 
-sehen - veu
+sehen - veru
 
-hören - requ
+hören - beru
 
-riechen - fie
+riechen - firu
 
-schmecken - maake
+schmecken - miru
 
-fühlen - sen
+fühlen - sen / seru
 
 fühlen (emotional) - wen
 
 spüren (sozial) - chen
 
-malen - tessa
+malen - tesa
 
 fühlen - waroe
 
@@ -383,7 +383,7 @@ ist gleich - de
 
 megh wa qu de 185cm // Meine höhe ist 185cm // ich sein höhe ist 185cm
 
-über (thematisch) - enne
+über (thematisch) - ene
 
 ---
 
@@ -415,9 +415,16 @@ herunter - ca
 
 auf (aufgehend) - as
 
+nächtes - neve
+
+vorheriges - reve
+
+welches - eso - e veyan eso wa ohim // die augen welche sind braun
+
 ---
 
 genau - yalem
+
 circa / ungefähr - yulem
 
 ---
@@ -460,6 +467,10 @@ und (aufzählung) - to
 oder (satzebene) - doku
 
 oder (aufzählung) - do
+
+sobald (indikativ) - sano
+
+wenn (konjunktiv) - si
 
 auch - ta
 
@@ -520,6 +531,10 @@ wenige - gao
 nicht alleine - kawae
 
 alleine - kawao
+
+zusammen - kecae
+
+getrennt - kecao
 
 gut - utae
 
@@ -603,14 +618,6 @@ kalt - newaro
 
 
 # Substantive - suta
-
-das - se
-
-nächtes - neve
-
-vorheriges - reve
-
-
 
 
 ## Allgemein
