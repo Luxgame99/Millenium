@@ -4,14 +4,14 @@
 Jedes Wort in Millenium besteht aus verscheidenen Komponenten:
 ~~~
 
-# Prefix / Prefixe
+### Prefix / Prefixe
 
 - ei - 1. Steigerung
 - ene - 2. Steigerung
 - ze - zukunftsform
 - zo - vergangenheitsform
 
-# Basis
+### Basis
 
 ~~~
 bsp:
@@ -23,14 +23,14 @@ qu - hoch / erhöhung
 ~~~
 
 
-# Endung
+### Endung
 
 - **bei Adjektiven** e / o oder ei / eu
 - **bei Substantiven** a / ge / s / i / go / uo / r / m / n / t / l / u / sh
 - **bei verben** keine Endung
 
 
-# Suffixe
+### Suffixe
 
 - ein - ausführender des Substantives (xera)
 ~~~
