@@ -15,9 +15,9 @@ Jedes Wort in Millenium besteht aus verscheidenen Komponenten:
 
 ~~~
 bsp:
-daqu:
+daku:
 da - groß
-qu - hoch / erhöhung
+ku - hoch / erhöhung
 
 => Berg
 ~~~

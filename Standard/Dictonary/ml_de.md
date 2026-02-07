@@ -108,7 +108,7 @@ ihr - veiceru/veiru
 
 euer - yaeceru/yoiru
 
-niemands - qoceru/qoiru
+niemands - koceru/koiru
 
 jedermans - dagheceru/dagheiru
 
@@ -190,7 +190,7 @@ gehen/begeben - expet/ex/expe
 
 schreiben - teva
 
-sprechen - requa
+sprechen - rekua
 
 erschaffen - teba
 
@@ -306,7 +306,7 @@ perfekt - zeom **zeo(r)-**
 
 ich habe gemacht - me **zeo**rote
 
-plusquamperfekt - ziqom **zio(r)-**
+plusquamperfekt - zikom **zio(r)-**
 
 ich hatte gemacht - me **zio**rote
 
@@ -383,7 +383,7 @@ ist nicht/nicht sein - wo
 
 ist gleich - de
 
-megh wa qu de 185cm // Meine höhe ist 185cm // ich sein höhe ist 185cm
+megh wa ku de 185cm // Meine höhe ist 185cm // ich sein höhe ist 185cm
 
 über (thematisch) - ene
 
@@ -490,11 +490,11 @@ desto - gere
 
 
 # Adjektive (und Adverbe) - nous 
-höhe - qu
+höhe - ku
 
-lang - que
+lang - kue
 
-kurz - quo
+kurz - kuo
 
 hoch - ogae
 
@@ -640,7 +640,7 @@ etwas (adj.) - noda
 
 etwas (sub.) - suda / sero
 
-etwas (aussage) - quda
+etwas (aussage) - kuda
 
 ---
 
@@ -725,7 +725,7 @@ Alien - Jiem
 
 Welt - dale
 
-Wasser - aqui
+Wasser - akui
 
 Feuer - igni
 
@@ -957,9 +957,9 @@ Normalschrift - nemeitoa
 
 Semi-kursiv-Schrift - manae'tematoa // halbe-schnellschrift
 
-Silbenschrift - sequatoa
+Silbenschrift - sekuatoa
 
-Lautschrift - quaetoa
+Lautschrift - kuaetoa
 
 Blockschrift - botoa
 
@@ -975,8 +975,8 @@ Buchstabe - tame
 
 Schriftzeichen - segeo
 
-Silbe - sequa
+Silbe - sekua
 
-Ton - quae
+Ton - kuae
 
-Betonung - quatae
+Betonung - kuatae
