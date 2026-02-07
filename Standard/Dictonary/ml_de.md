@@ -789,7 +789,6 @@ Füß - zenaya
 Ferse - kezaya
 
 
-## Nahrung - maa
 
 
 ## Weltraum

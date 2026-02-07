@@ -1,5 +1,8 @@
 ein paar
-jito jito / nia
+nia
+
+und so weiter und so fort
+jito jito
 
 hart / heftig / krass (adj)
-toobe
+tete

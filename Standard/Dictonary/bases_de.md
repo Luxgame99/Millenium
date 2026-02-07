@@ -43,3 +43,39 @@ tezoein - Techniker
 
 #Silben:
 
+||a|e|i|o|u|
+|:---|:---:|:---:|:---:|:---:|:---:|
+|A|Aussen|Gegenteil||Anders||
+|B|Grundlage|Ton||Behälter|Unordnung|
+|C|Situtation/Möglichkeit|Inhalt/Fülle|Cylinder|||
+|D|Größe||Verbinding|Ordnung|Regel|
+|E||||||
+|F||Liebe|Geruch|Pflanze||
+|G|Anzahl|||Kugel||
+|H||||||
+|I||||||
+|J||||Zahl||
+|K|Kern|Mit|An/Zu|Wissen|Höhe|
+|L||Raum|Richtung/Zu|||
+|M|Ort|Ich|Nahrung|Bewegung||
+|N|Zugehörig|Maß|Freundlich|Name||
+|O||||||
+|P||Gefahr|Physisch|||
+|R|Leisten|Zeugen|Verändern|Tätigen|Wahrnehmen|
+|S||Gefühl|Kommunizieren|Gegenüber//Zeit|Entnehmen|
+|T|Schönheit|Erschaffen||Schrift|Theoretisch|
+|U||||||
+|V||Sehen||Leere||
+|W|Sein|||nicht Sein||
+|X||Ausführen||||
+|Y|Körper|||||
+|Z|Bein|Zukunft||Vergangen|System|
+
+---
+---
+
+Zeit - Sor
+
+Ort - Mar
+
+Wesen - Gh
