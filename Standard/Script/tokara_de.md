@@ -70,23 +70,23 @@ Als trennzeichen bei Aufzahlungen wird das Dao genutzt.
 
 |Zahlenwert|Zeichen 1|Zeichen 2|Lesung 1|Lesung 2|
 |:---|:---:|:---:|:---:|:---:|
-|0|![image](0-So.png)||So|Soo|
-|1|![image](1-Ji.png)||Ji|Jishi|
-|2|![image](2-Ni.png)||Ni|Nito|
-|3|![image](3-Sa.png)||Sa|Sama|
-|4|![image](4-Yo.png)||Yo|Yoko|
-|5|![image](5-Go.png)||Go|Gon|
-|6|![image](6-Ro.png)||Ro|Roku|
-|7|![image](7-Na.png)||Na|Nan|
-|8|![image](8-Ha.png)||Ha|Haru|
-|9|![image](9-Ku.png)||Ku|Kiyu|
-|10|![image](10-Ju.png)||Ju|Ju|
-|100|![image](Son.png)||Son|Son|
-|1000|![image](Sen.png)||Sen|Sen|
-|10.000|![image](10-Ju.png)![image](Son.png)||Juson|Juson|
-|1.000.000|![image](Jen.png)||Jen|Jen|
-|1.000.000.000|![image](Jog.png)||Jog|Jog|
-|1.000.000.000.000|![image](Seg.png)||Seg|Seg|
+|0|![image](ML/0-So.png)||So|Soo|
+|1|![image](ML/1-Ji.png)||Ji|Jishi|
+|2|![image](ML/2-Ni.png)||Ni|Nito|
+|3|![image](ML/3-Sa.png)||Sa|Sama|
+|4|![image](/ML/4-Yo.png)||Yo|Yoko|
+|5|![image](/ML/5-Go.png)||Go|Gon|
+|6|![image](/ML/6-Ro.png)||Ro|Roku|
+|7|![image](ML/7-Na.png)||Na|Nan|
+|8|![image](ML/8-Ha.png)||Ha|Haru|
+|9|![image](ML/9-Ku.png)||Ku|Kiyu|
+|10|![image](ML/10-Ju.png)||Ju|Ju|
+|100|![image](ML/Son.png)||Son|Son|
+|1000|![image](ML/Sen.png)||Sen|Sen|
+|10.000|![image](ML/10-Ju.png)![image](ML/Son.png)||Juson|Juson|
+|1.000.000|![image](ML/Jen.png)||Jen|Jen|
+|1.000.000.000|![image](ML/Jog.png)||Jog|Jog|
+|1.000.000.000.000|![image](ML/Seg.png)||Seg|Seg|
 
 ## 5. Tomai (besondere Systeme)
 
