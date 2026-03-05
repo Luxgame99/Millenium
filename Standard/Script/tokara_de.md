@@ -74,9 +74,9 @@ Als trennzeichen bei Aufzahlungen wird das Dao genutzt.
 |1|![image](ML/1-Ji.png)||Ji|Jishi|
 |2|![image](ML/2-Ni.png)||Ni|Nito|
 |3|![image](ML/3-Sa.png)||Sa|Sama|
-|4|![image](/ML/4-Yo.png)||Yo|Yoko|
-|5|![image](/ML/5-Go.png)||Go|Gon|
-|6|![image](/ML/6-Ro.png)||Ro|Roku|
+|4|![image](ML/4-Yo.png)||Yo|Yoko|
+|5|![image](ML/5-Go.png)||Go|Gon|
+|6|![image](ML/6-Ro.png)||Ro|Roku|
 |7|![image](ML/7-Na.png)||Na|Nan|
 |8|![image](ML/8-Ha.png)||Ha|Haru|
 |9|![image](ML/9-Ku.png)||Ku|Kiyu|
