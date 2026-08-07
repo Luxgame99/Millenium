@@ -1,0 +1,244 @@
+Ein paar nützliche Wörter
+Ausgabe: Jun 2026 Tim W.
+
+
+sub = Substantiv
+ver = Verb (intransitiv)
+adj = Adjektiv
+adv = Adverb
+pk = Konjunktion bzw. Partikel
+
+sub m = Nominalklasse physisch
+sub s = Nominalklasse abstrakt
+sub f = Nominalklasse formlos
+
+ver t = transitives Verb
+ver m = modales Verb
+ver r = reflexives Verb
+
+adj a = neutrales Adjektiv
+adj e = positives Adjektiv
+adj o = negatives Adjektiv
+
+---
+
+Personen:
+Ich (sub f)
+	ēo, jeēo, me
+
+Du (sub f)
+	jeēa, ye
+
+Er (sub f)
+	vai, jevai
+
+Sie (sub f)
+	vei, jevei
+
+Es (sub f)
+	so, jeso
+
+Wir (sub f)
+	ēonu, jeēonu
+
+Ihr (sub f)
+	yenu, jeyenu
+
+Sie (sub f)
+	sonu, jesonu
+	
+Jeder (sub f)
+	dai, jega
+	
+Niemand (sub f)
+	ōdai, jeōda
+	
+Einige (sub f)
+	nui, jenu
+
+---
+
+Zeit:
+
+Zeit (sub s)
+	zas
+	
+Zukunft (sub s)
+	zes
+	
+Vergangenheit (sub s)
+	zos
+	
+Präsens (sub s)
+	zawas
+	
+Futur (sub s)
+	zewas
+	
+Präteritum (sub s)
+	zowas
+	
+nahe Zukunft, bald (sub s)
+	henezes
+	
+nahe Vergangenheit, eben (sub s)
+	henezos
+
+späte Zukunft, irgentwann (sub s)
+	lenezes
+	
+späte Vergangenheit, vor langer Zeit (sub s)
+	lenezos
+
+Irgentwann [in der Zukunft] (sub s)
+	ōkozes
+	
+Irgentwann [in der Vergangenheit] (sub s)
+	ōkozos
+	
+---
+
+Ort:
+
+Ort (sub m)
+	mam
+
+Hier [bei mir]
+	eosu mam
+	
+Hier [hier bei dir]
+	yesu mam
+	
+Überall (adj e)
+	dalimae
+	
+Nirgentswo (adj o)
+	dalimao
+	
+---
+
+Verben:
+
+Verb (sub s)
+	ros
+	
+besitzen (ver t)
+	nawar-
+	
+[etwas] machen, tun (ver)
+	er-
+	
+[etwas] machen (ver)
+	ar-
+	
+konsumieren (ver)
+	mir-
+	
+gehen, bewegen (ver)
+	marir-
+	
+schreiben (ver)
+	tetor-
+	
+sprechen (ver)
+	bere
+
+erschaffen (ver)
+	tere
+	
+heilen (ver)
+	sopalir-
+	
+verletzen (ver)
+	soaepalir-
+	
+suchen (ver)
+	haver-
+	
+finden (ver)
+	havego
+	
+geben (ver)
+	irir-
+	
+dürfen (ver m)
+	caexe
+	
+wollen (ver m)
+	tepu
+	
+können (ver m)
+	teyu
+
+müssen (ver m)
+	juexe
+	
+sein (ver, pk)
+	wa[r-]
+	
+sehen (ver)
+	veru
+
+hören (ver)
+	beru
+	
+riechen (ver)
+	firu
+	
+schmecken (ver)
+	miru
+
+fühlen (ver)
+	seru
+	
+wissen (ver)
+	kor-
+	
+---
+
+Präpositionen:
+	
+innen (pk)
+	ee
+	
+aus (pk)
+	ea
+	
+aussen (pk)
+	aa
+	
+ein (pk)
+	ei
+	
+auf (pk)
+	vi
+	
+vor (pk)
+	hema
+	
+nach (pk)
+	lema
+	
+über (pk)
+	eu
+	
+neben (pk)
+	ao[ma]
+	
+gegenüber (pk)
+	so
+
+nah (pk)
+	pe
+	
+fern (pk)
+	po
+	
+verbunden (pk)
+	di
+	
+grundlage (pk)
+	ba
+
+neben (pk)
+	nama
